@@ -1,4 +1,4 @@
-# prime-number-counter
+# prime-number-finder
 
 ## Compile
 
